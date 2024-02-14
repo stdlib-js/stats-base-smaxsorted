@@ -48,7 +48,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import smaxsorted from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-smaxsorted@esm/index.mjs';
+import smaxsorted from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-smaxsorted@v0.2.0-esm/index.mjs';
 ```
 
 #### smaxsorted( N, x, stride )
@@ -166,7 +166,7 @@ var v = smaxsorted.ndarray( N, x, 2, 1 );
 <script type="module">
 
 import Float32Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-float32@esm/index.mjs';
-import smaxsorted from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-smaxsorted@esm/index.mjs';
+import smaxsorted from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-smaxsorted@v0.2.0-esm/index.mjs';
 
 var x;
 var i;
