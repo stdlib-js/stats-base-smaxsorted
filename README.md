@@ -312,7 +312,7 @@ int main( void ) {
 
 -   <span class="package-name">[`@stdlib/stats-strided/dmaxsorted`][@stdlib/stats/strided/dmaxsorted]</span><span class="delimiter">: </span><span class="description">calculate the maximum value of a sorted double-precision floating-point strided array.</span>
 -   <span class="package-name">[`@stdlib/stats-base/maxsorted`][@stdlib/stats/base/maxsorted]</span><span class="delimiter">: </span><span class="description">calculate the maximum value of a sorted strided array.</span>
--   <span class="package-name">[`@stdlib/stats-base/smax`][@stdlib/stats/base/smax]</span><span class="delimiter">: </span><span class="description">calculate the maximum value of a single-precision floating-point strided array.</span>
+-   <span class="package-name">[`@stdlib/stats-strided/smax`][@stdlib/stats/strided/smax]</span><span class="delimiter">: </span><span class="description">calculate the maximum value of a single-precision floating-point strided array.</span>
 -   <span class="package-name">[`@stdlib/stats-base/sminsorted`][@stdlib/stats/base/sminsorted]</span><span class="delimiter">: </span><span class="description">calculate the minimum value of a sorted single-precision floating-point strided array.</span>
 
 </section>
@@ -401,7 +401,7 @@ Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 
 [@stdlib/stats/base/maxsorted]: https://github.com/stdlib-js/stats-base-maxsorted
 
-[@stdlib/stats/base/smax]: https://github.com/stdlib-js/stats-base-smax
+[@stdlib/stats/strided/smax]: https://github.com/stdlib-js/stats-strided-smax
 
 [@stdlib/stats/base/sminsorted]: https://github.com/stdlib-js/stats-base-sminsorted
 
